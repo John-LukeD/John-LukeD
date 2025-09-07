@@ -5,7 +5,7 @@
 # Hi there, I'm John-Luke 👋  
 
 - 🎓 **Computer Science Senior** at the University of North Carolina at Charlotte  
-- 💻 Concentration: AI, Robotics, & Game Development  
+- 💻 Concentration: Software Engineering 
 - 📅 Expected Graduation: December 2025
 - 🌱 Current Coursework: Backend Application Development, Design and Implementation of Object oriented Systems, Secure Programming and Penetration Testing, Topics in Computer Science: Technical Interview Preparation
 
